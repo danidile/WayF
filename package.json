@@ -1,0 +1,18 @@
+{
+  "name": "abc",
+  "version": "0.0.1",
+  "description": "my server",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "create-react-app": "^1.2.1",
+    "ejs": "^3.1.10",
+    "express": "^4.20.0",
+    "nodemon": "^3.1.4",
+    "npm": "^10.8.3"
+  },
+  "devDependencies": {
+    "react-router-dom": "^6.26.2"
+  }
+}
